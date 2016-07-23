@@ -1,1 +1,4 @@
 alert("Makaka drive");
+var makaka = 4;
+var sum = makaka + 2;
+
