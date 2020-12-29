@@ -1,5 +1,6 @@
 alert("Makaka drive");
 var makaka = 4;
-var sum = makaka + 2;
+var makaka2 = 3;
+var sum = makaka + makaka2 + 2;
 alert("Car go!");
 
